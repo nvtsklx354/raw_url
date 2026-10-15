@@ -33,3 +33,4 @@
 "unregistered" 10-14-2026-16:29 "America/Los_Angeles" "2026-10-14T23:29:07.492Z" "iPhone · Chrome" "luluharmonia.netlify.app" "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/144.0.7559.95 Mobile/15E148 Safari/604.1"
 "Stevenn" 10-15-2026-07:29
 "Stevenn" 10-15-2026-07:29 "Asia/Manila" "2026-10-14T23:29:17.419Z" "Android · Chrome" "luluharmonia.netlify.app" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+"Stevenn" 10-15-2026-08:05 "Asia/Manila" "2026-10-15T00:05:32.263Z" "Windows · Edge" "luluharmonia.netlify.app" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
